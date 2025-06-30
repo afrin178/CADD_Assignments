@@ -20,5 +20,4 @@ PubChem database
 ![Screenshot 2024-05-24 161128](https://github.com/user-attachments/assets/c748a5f3-c788-46fe-8d00-b99c03d90d80)
 ![Screenshot 2024-05-24 163451](https://github.com/user-attachments/assets/352235bc-9f16-4c4c-9216-e17b062cf589)
 
-![Screenshot 2024-05-24 155531](https://github.com/user-attachments/assets/94b94171-941a-4694-abea-e79bad419d5f)
 
