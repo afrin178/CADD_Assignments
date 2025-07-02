@@ -1,3 +1,3 @@
-This repository contains some of my assignments as part of my Computer-Aided Drug Design Training (2024).
+This repository contains some of my work as part of my Computer-Aided Drug Design Training (2024).
 
 
